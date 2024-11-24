@@ -1,8 +1,5 @@
 html{
     overflow: hidden;
-    position: absolute;
-    top: -1.2%;
-    left: 1.5%;
 }
 .loader {
     transform: rotateZ(45deg);
@@ -86,4 +83,12 @@ html{
     position: absolute;
     top: 47%;
     left: 47%;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    text-align: center;
+    text-wrap:nowrap;
+    margin-left: 10%;
+    width: 100px;;
 }
